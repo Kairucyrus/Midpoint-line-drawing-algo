@@ -64,4 +64,4 @@ if __name__ == "__main__":
     points = midpoint_line_algorithm.run()
 
     print(points)
-    #runs successfully.
+    #runs successfully
